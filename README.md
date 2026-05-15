@@ -1,14 +1,9 @@
 # Reverse Engineering Learning Plan
 
-## 👤 Info
-- **Name:**
-- **Start Date:**
-- **Goal:**
-
----
-
 ## Prerequisites
-- [ ] OS fundamentals (Windows / Linux)
+- [ ] Mathmatics  [Professor Dave Explains]((https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=IGrtrBCfnIya6noF)
+      **WHY: You don't want to be running into research papers that you cannot follow due to shortcomings in mathmatics**
+
 - [ ] Basic programming (C / Python)
 - [ ] Command-line proficiency
 - [ ] Networking basics
