@@ -2,12 +2,12 @@
 
 ## Prerequisites
 - [ ] Mathmatics  [Professor Dave Explains](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=IGrtrBCfnIya6noF)
+
       **WHY: You don't want to be running into research papers that you cannot follow due to shortcomings in mathmatics**
 
-- [ ] Basic programming (C / Python)
-- [ ] Command-line proficiency
-- [ ] Networking basics
-- [ ] Compiler basics
+- [ ] Computer Architecture [CrashCourse - PBS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=avYwK3T4gn4rqIqU)
+
+      **WHY: By starting with the lowest level of computing, and building abstractions on top of that understanding. You will be able to contextualize what you are seeing or reading**
 
 ---
 
