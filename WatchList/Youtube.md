@@ -1,2 +1,2 @@
-- [ ] [LLM/RE](https://www.youtube.com/watch?v=9avSjDHKQ90)
-- [ ] [Chess Engine](https://www.youtube.com/watch?v=UqCXwP1F-ho)
+- [ ] [Automated Reverse Engineering with LibGhidra, GhidraSQL, and AI Agents](https://www.youtube.com/watch?v=9avSjDHKQ90)
+- [ ] [I Tried to Code a Chess Engine. It Broke Me.](https://www.youtube.com/watch?v=UqCXwP1F-ho)
