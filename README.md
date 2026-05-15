@@ -1,7 +1,7 @@
 # Reverse Engineering Learning Plan
 
 ## Prerequisites
-- [ ] Mathmatics  [Professor Dave Explains]((https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=IGrtrBCfnIya6noF)
+- [ ] Mathmatics  [Professor Dave Explains](https://youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&si=IGrtrBCfnIya6noF)
       **WHY: You don't want to be running into research papers that you cannot follow due to shortcomings in mathmatics**
 
 - [ ] Basic programming (C / Python)
