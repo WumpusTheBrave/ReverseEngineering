@@ -1,0 +1,2 @@
+[LLM/RE](https://www.youtube.com/watch?v=9avSjDHKQ90)
+[Chess Engine](https://www.youtube.com/watch?v=UqCXwP1F-ho)
